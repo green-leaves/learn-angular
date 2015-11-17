@@ -1,0 +1,15 @@
+{
+  "name": "learn-angular",
+  "version": "1.0.0",
+  "description": "Learn me angular",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}

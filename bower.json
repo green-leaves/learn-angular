@@ -1,0 +1,21 @@
+{
+  "name": "learn-angular",
+  "description": "Learn me angular",
+  "main": "index.js",
+  "authors": [
+    "Nguyen Duy Tiep <tiepnd@higgsup.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
